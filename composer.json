@@ -1,0 +1,18 @@
+{
+    "name": "rakibtg/php-random-quotes-generator",
+    "description": "This library will generate a random quotes for you.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rakibtg",
+            "email": "rakibtg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHPRandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
