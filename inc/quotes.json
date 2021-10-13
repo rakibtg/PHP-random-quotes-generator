@@ -6558,5 +6558,9 @@
     {
         "quoteAuthor": "Tom Jackson",
         "quoteText": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on."
+    },
+    {
+        "quoteAuthor": "Steve McConnell",
+        "quoteText": "Copy and paste is a design error."
     }
 ]
